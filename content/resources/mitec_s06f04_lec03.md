@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding capacitors.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-practical-electronics-fall-2004/74b44927d62533d665228129b60f5df2_MITEC_S06F04_lec03.pdf
+file: /media/courses/ec-s06-practical-electronics-fall-2004/74b44927d62533d665228129b60f5df2_MITEC_S06F04_lec03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 3: Capacitors'
 uid: 74b44927-d625-33d6-6522-8129b60f5df2

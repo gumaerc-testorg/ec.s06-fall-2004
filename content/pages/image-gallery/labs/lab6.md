@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fe732839-1aed-4444-fbcd-feb926458288
 title: 'Image Gallery: Lab 6'
 uid: e46de1fb-4408-966f-340c-6f1004d34730
@@ -9,7 +13,7 @@ uid: e46de1fb-4408-966f-340c-6f1004d34730
 **Labs:** [Lab 1]({{< baseurl >}}/pages/image-gallery/labs/lab1) | [Lab 3]({{< baseurl >}}/pages/image-gallery/labs/lab3) | [Lab 4]({{< baseurl >}}/pages/image-gallery/labs/lab4) | [Lab 5]({{< baseurl >}}/pages/image-gallery/labs/lab5) | Lab 6 | [Lab 7]({{< baseurl >}}/pages/image-gallery/labs/lab7) | [Lab 9]({{< baseurl >}}/pages/image-gallery/labs/lab9)
 
 **Projects:** [Lecture 10]({{< baseurl >}}/pages/image-gallery/projects/lecture-10) | [Lab 10]({{< baseurl >}}/pages/image-gallery/projects/lab10) | [Lecture 12]({{< baseurl >}}/pages/image-gallery/projects/lecture-12) | [Lab 11]({{< baseurl >}}/pages/image-gallery/projects/lab11) | [Lab 12 - Color Organ]({{< baseurl >}}/pages/image-gallery/projects/lab12/color-organ) | [Lab 12 - Sunflower]({{< baseurl >}}/pages/image-gallery/projects/lab12/sunflower)
-{{< image-gallery id="e46de1fb-4408-966f-340c-6f1004d34730_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-practical-electronics-fall-2004/" >}}
+{{< image-gallery id="e46de1fb-4408-966f-340c-6f1004d34730_nanogallery2" baseUrl="/courses/ec-s06-practical-electronics-fall-2004/" >}}
 {{< image-gallery-item href="66c0c1ea33183f12d0aefa7a4e80f17c_1.jpg" data-ngdesc="A relay." text="A relay." >}}
 {{< image-gallery-item href="5a41626822255e62462ba7bea70bf03d_2.jpg" data-ngdesc="Bottom view of a relay." text="Bottom view of a relay." >}}
 {{< image-gallery-item href="1bab372b29841ccd543d2d095a91898a_3.jpg" data-ngdesc="A simple relay circuit." text="A simple relay circuit." >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 29f3e0a7-74f2-a645-9ded-6a01261bbaea
 title: 'Image Gallery: Lecture 10'
 uid: dfae6b21-ed59-6a72-f043-68e5453cfd36
@@ -9,7 +13,7 @@ uid: dfae6b21-ed59-6a72-f043-68e5453cfd36
 **Labs:** [Lab 1]({{< baseurl >}}/pages/image-gallery/labs/lab1) | [Lab 3]({{< baseurl >}}/pages/image-gallery/labs/lab3) | [Lab 4]({{< baseurl >}}/pages/image-gallery/labs/lab4) | [Lab 5]({{< baseurl >}}/pages/image-gallery/labs/lab5) | [Lab 6]({{< baseurl >}}/pages/image-gallery/labs/lab6) | [Lab 7]({{< baseurl >}}/pages/image-gallery/labs/lab7) | [Lab 9]({{< baseurl >}}/pages/image-gallery/labs/lab9)
 
 **Projects:** Lecture 10 | [Lab 10]({{< baseurl >}}/pages/image-gallery/projects/lab10) | [Lecture 12]({{< baseurl >}}/pages/image-gallery/projects/lecture-12) | [Lab 11]({{< baseurl >}}/pages/image-gallery/projects/lab11) | [Lab 12 - Color Organ]({{< baseurl >}}/pages/image-gallery/projects/lab12/color-organ) | [Lab 12 - Sunflower]({{< baseurl >}}/pages/image-gallery/projects/lab12/sunflower)
-{{< image-gallery id="dfae6b21-ed59-6a72-f043-68e5453cfd36_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-practical-electronics-fall-2004/" >}}
+{{< image-gallery id="dfae6b21-ed59-6a72-f043-68e5453cfd36_nanogallery2" baseUrl="/courses/ec-s06-practical-electronics-fall-2004/" >}}
 {{< image-gallery-item href="5a566230bc4d93258abb2afd75172310_1.jpg" data-ngdesc="Two students work together on their final project." text="Two students work together on their final project." >}}
 {{< image-gallery-item href="3ab11fd71030bb8eed1b838171b05aab_2.jpg" data-ngdesc="Three students adjust their design." text="Three students adjust their design." >}}
 {{< image-gallery-item href="2b3d3e8d63fb88f409b78d55cfbee5e0_3.jpg" data-ngdesc="A student works on his Color Organ final project." text="A student works on his Color Organ final project." >}}

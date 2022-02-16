@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fe732839-1aed-4444-fbcd-feb926458288
 title: 'Image Gallery: Lab 5'
 uid: dabce423-5cbf-4e27-42ef-db50f547be54
@@ -9,7 +13,7 @@ uid: dabce423-5cbf-4e27-42ef-db50f547be54
 **Labs:** [Lab 1]({{< baseurl >}}/pages/image-gallery/labs/lab1) | [Lab 3]({{< baseurl >}}/pages/image-gallery/labs/lab3) | [Lab 4]({{< baseurl >}}/pages/image-gallery/labs/lab4) | Lab 5 | [Lab 6]({{< baseurl >}}/pages/image-gallery/labs/lab6) | [Lab 7]({{< baseurl >}}/pages/image-gallery/labs/lab7) | [Lab 9]({{< baseurl >}}/pages/image-gallery/labs/lab9)
 
 **Projects:** [Lecture 10]({{< baseurl >}}/pages/image-gallery/projects/lecture-10) | [Lab 10]({{< baseurl >}}/pages/image-gallery/projects/lab10) | [Lecture 12]({{< baseurl >}}/pages/image-gallery/projects/lecture-12) | [Lab 11]({{< baseurl >}}/pages/image-gallery/projects/lab11) | [Lab 12 - Color Organ]({{< baseurl >}}/pages/image-gallery/projects/lab12/color-organ) | [Lab 12 - Sunflower]({{< baseurl >}}/pages/image-gallery/projects/lab12/sunflower)
-{{< image-gallery id="dabce423-5cbf-4e27-42ef-db50f547be54_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-practical-electronics-fall-2004/" >}}
+{{< image-gallery id="dabce423-5cbf-4e27-42ef-db50f547be54_nanogallery2" baseUrl="/courses/ec-s06-practical-electronics-fall-2004/" >}}
 {{< image-gallery-item href="1ae382dd1b1892ac219b82f012955286_1.jpg" data-ngdesc="Various amplitude units used in AC voltage measurements." text="Various amplitude units used in AC voltage measurements." >}}
 {{< image-gallery-item href="fe51eeced384cf03506f6be505177205_2.jpg" data-ngdesc="A schematic of a low pass filter." text="A schematic of a low pass filter." >}}
 {{< image-gallery-item href="6e4d25ca243033fe6bee13598bac0bae_3.jpg" data-ngdesc="An intact sine wave." text="An intact sine wave." >}}

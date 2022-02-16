@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 29f3e0a7-74f2-a645-9ded-6a01261bbaea
 title: 'Image Gallery: Lab 10'
 uid: 9f359de3-2240-f274-db76-e85f310466d7
@@ -9,7 +13,7 @@ uid: 9f359de3-2240-f274-db76-e85f310466d7
 **Labs:** [Lab 1]({{< baseurl >}}/pages/image-gallery/labs/lab1) | [Lab 3]({{< baseurl >}}/pages/image-gallery/labs/lab3) | [Lab 4]({{< baseurl >}}/pages/image-gallery/labs/lab4) | [Lab 5]({{< baseurl >}}/pages/image-gallery/labs/lab5) | [Lab 6]({{< baseurl >}}/pages/image-gallery/labs/lab6) | [Lab 7]({{< baseurl >}}/pages/image-gallery/labs/lab7) | [Lab 9]({{< baseurl >}}/pages/image-gallery/labs/lab9)
 
 **Projects:** [Lecture 10]({{< baseurl >}}/pages/image-gallery/projects/lecture-10) | Lab 10 | [Lecture 12]({{< baseurl >}}/pages/image-gallery/projects/lecture-12) | [Lab 11]({{< baseurl >}}/pages/image-gallery/projects/lab11) | [Lab 12 - Color Organ]({{< baseurl >}}/pages/image-gallery/projects/lab12/color-organ) | [Lab 12 - Sunflower]({{< baseurl >}}/pages/image-gallery/projects/lab12/sunflower)
-{{< image-gallery id="9f359de3-2240-f274-db76-e85f310466d7_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-practical-electronics-fall-2004/" >}}
+{{< image-gallery id="9f359de3-2240-f274-db76-e85f310466d7_nanogallery2" baseUrl="/courses/ec-s06-practical-electronics-fall-2004/" >}}
 {{< image-gallery-item href="a338d619c94abddae3f4d009a9f53fb0_1.jpg" data-ngdesc="The teaching assistant helps a student choose the appropiate cut-off frequency for a low pass filter." text="The teaching assistant helps a student choose the appropiate cut-off frequency for a low pass filter." >}}
 {{< image-gallery-item href="58c7829cf32aac472223f4a521adec95_2.jpg" data-ngdesc="A student applies a sine wave signal to his circuit." text="A student applies a sine wave signal to his circuit." >}}
 {{< image-gallery-item href="29406f36fbc23d818399891fab2139bc_3.jpg" data-ngdesc="Two students discuss various designs." text="Two students discuss various designs." >}}

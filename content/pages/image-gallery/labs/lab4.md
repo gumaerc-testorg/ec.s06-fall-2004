@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fe732839-1aed-4444-fbcd-feb926458288
 title: 'Image Gallery: Lab 4'
 uid: a85b4850-6d14-5356-fbd0-e6fab6371b50
@@ -9,7 +13,7 @@ uid: a85b4850-6d14-5356-fbd0-e6fab6371b50
 **Labs:** [Lab 1]({{< baseurl >}}/pages/image-gallery/labs/lab1) | [Lab 3]({{< baseurl >}}/pages/image-gallery/labs/lab3) | Lab 4 | [Lab 5]({{< baseurl >}}/pages/image-gallery/labs/lab5) | [Lab 6]({{< baseurl >}}/pages/image-gallery/labs/lab6) | [Lab 7]({{< baseurl >}}/pages/image-gallery/labs/lab7) | [Lab 9]({{< baseurl >}}/pages/image-gallery/labs/lab9)
 
 **Projects:** [Lecture 10]({{< baseurl >}}/pages/image-gallery/projects/lecture-10) | [Lab 10]({{< baseurl >}}/pages/image-gallery/projects/lab10) | [Lecture 12]({{< baseurl >}}/pages/image-gallery/projects/lecture-12) | [Lab 11]({{< baseurl >}}/pages/image-gallery/projects/lab11) | [Lab 12 - Color Organ]({{< baseurl >}}/pages/image-gallery/projects/lab12/color-organ) | [Lab 12 - Sunflower]({{< baseurl >}}/pages/image-gallery/projects/lab12/sunflower)
-{{< image-gallery id="a85b4850-6d14-5356-fbd0-e6fab6371b50_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-practical-electronics-fall-2004/" >}}
+{{< image-gallery id="a85b4850-6d14-5356-fbd0-e6fab6371b50_nanogallery2" baseUrl="/courses/ec-s06-practical-electronics-fall-2004/" >}}
 {{< image-gallery-item href="76aa9ceef7c8cc94c204c2478cf4d5c7_1.jpg" data-ngdesc="Vertical alignment knobs of an oscilloscopes interface." text="Vertical alignment knobs of an oscilloscopes interface." >}}
 {{< image-gallery-item href="af33c0aee09d66681ecde8ec8b7b4d7b_2.jpg" data-ngdesc="Prof. Bales explains how to operate an oscilloscope." text="Prof. Bales explains how to operate an oscilloscope." >}}
 {{< image-gallery-item href="3feac6c8db12cb79175757f0c74b352f_3.jpg" data-ngdesc="A diagram of the trigger interface of the oscilloscope." text="A diagram of the trigger interface of the oscilloscope." >}}

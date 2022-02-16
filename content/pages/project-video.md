@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Project Video
 uid: 13644f8f-5336-194f-60d9-2df9b34e9e8d
 ---

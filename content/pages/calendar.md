@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: bd381f0f-c9d6-06bc-9aa9-65b29f1641d6
 ---
@@ -188,7 +190,7 @@ Describe their Composition
   
 Discuss Charge Storage and E-field  
   
-State q = CV and E = CV2/2  
+State q = CV and E = CV{{< sup "2" >}}/2  
   
 Derive differential equations for RC and show exponentials are solutions
 {{< tdclose >}}

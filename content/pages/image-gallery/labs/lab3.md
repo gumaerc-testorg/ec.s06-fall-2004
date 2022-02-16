@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fe732839-1aed-4444-fbcd-feb926458288
 title: 'Image Gallery: Lab 3'
 uid: e030b434-7ab0-6039-311f-9066d2e95cc1
@@ -9,7 +13,7 @@ uid: e030b434-7ab0-6039-311f-9066d2e95cc1
 **Labs:** [Lab 1]({{< baseurl >}}/pages/image-gallery/labs/lab1) | Lab 3 | [Lab 4]({{< baseurl >}}/pages/image-gallery/labs/lab4) | [Lab 5]({{< baseurl >}}/pages/image-gallery/labs/lab5) | [Lab 6]({{< baseurl >}}/pages/image-gallery/labs/lab6) | [Lab 7]({{< baseurl >}}/pages/image-gallery/labs/lab7) | [Lab 9]({{< baseurl >}}/pages/image-gallery/labs/lab9)
 
 **Projects:** [Lecture 10]({{< baseurl >}}/pages/image-gallery/projects/lecture-10) | [Lab 10]({{< baseurl >}}/pages/image-gallery/projects/lab10) | [Lecture 12]({{< baseurl >}}/pages/image-gallery/projects/lecture-12) | [Lab 11]({{< baseurl >}}/pages/image-gallery/projects/lab11) | [Lab 12 - Color Organ]({{< baseurl >}}/pages/image-gallery/projects/lab12/color-organ) | [Lab 12 - Sunflower]({{< baseurl >}}/pages/image-gallery/projects/lab12/sunflower)
-{{< image-gallery id="e030b434-7ab0-6039-311f-9066d2e95cc1_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-practical-electronics-fall-2004/" >}}
+{{< image-gallery id="e030b434-7ab0-6039-311f-9066d2e95cc1_nanogallery2" baseUrl="/courses/ec-s06-practical-electronics-fall-2004/" >}}
 {{< image-gallery-item href="4d5bc81731f3218733ddb5240da70b9b_1.jpg" data-ngdesc="A double pole double throw switch." text="A double pole double throw switch." >}}
 {{< image-gallery-item href="b769cfddc7d489c84cd6f6549f762e61_2.jpg" data-ngdesc="A diagram of a double pole double throw switch." text="A diagram of a double pole double throw switch." >}}
 {{< image-gallery-item href="2cc257392165c185895e95c168e63914_3.jpg" data-ngdesc="A schematic of a bridge rectifier circuit." text="A schematic of a bridge rectifier circuit." >}}
