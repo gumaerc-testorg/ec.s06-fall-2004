@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2f11ec6-c351-e7dc-8546-a258ffbd4570
 resourcetype: Document
 title: 'Lecture 9: Final Project Concepts'
 uid: f634a6bc-f3bb-a64d-4676-5ba2322a70c8

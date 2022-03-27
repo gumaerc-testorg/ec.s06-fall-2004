@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2f11ec6-c351-e7dc-8546-a258ffbd4570
 resourcetype: Document
 title: 'Lecture 7: Flip-Flops and 555 Timer Circuit'
 uid: fe4b82c0-a96d-9d86-2ef0-457675bf28b8

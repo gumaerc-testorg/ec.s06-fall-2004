@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2f11ec6-c351-e7dc-8546-a258ffbd4570
 resourcetype: Document
 title: 'Lecture 5: Relays and Transistors'
 uid: 779830a3-af4a-9e9a-f017-323dac8c80ff

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db2087eb-d83e-7f69-b1ed-df9f56a15606
 resourcetype: Document
 title: Homework 3 Solutions
 uid: 16b9565c-63b7-2d64-fda5-ced7625c7602

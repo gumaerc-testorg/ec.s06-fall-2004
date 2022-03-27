@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2f11ec6-c351-e7dc-8546-a258ffbd4570
 resourcetype: Document
 title: 'Lecture 2: Switches, Rectifiers and Generators'
 uid: 86432d98-ad54-01f0-4bef-3ad01f7594d6
