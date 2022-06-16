@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about lab sessions and the corrosponding
+  lab exercises.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

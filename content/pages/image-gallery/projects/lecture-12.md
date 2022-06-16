@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,9 +11,9 @@ title: 'Image Gallery: Lecture 12'
 uid: 07fab0d6-7235-e608-ea95-3f976b3a92a8
 ---
 
-**Labs:** [Lab 1]({{< baseurl >}}/pages/image-gallery/labs/lab1) | [Lab 3]({{< baseurl >}}/pages/image-gallery/labs/lab3) | [Lab 4]({{< baseurl >}}/pages/image-gallery/labs/lab4) | [Lab 5]({{< baseurl >}}/pages/image-gallery/labs/lab5) | [Lab 6]({{< baseurl >}}/pages/image-gallery/labs/lab6) | [Lab 7]({{< baseurl >}}/pages/image-gallery/labs/lab7) | [Lab 9]({{< baseurl >}}/pages/image-gallery/labs/lab9)
+**Labs:** {{% resource_link 423c7aa5-6716-1fa6-a3a6-a92a5925529f "Lab 1" %}} | {{% resource_link e030b434-7ab0-6039-311f-9066d2e95cc1 "Lab 3" %}} | {{% resource_link a85b4850-6d14-5356-fbd0-e6fab6371b50 "Lab 4" %}} | {{% resource_link dabce423-5cbf-4e27-42ef-db50f547be54 "Lab 5" %}} | {{% resource_link e46de1fb-4408-966f-340c-6f1004d34730 "Lab 6" %}} | {{% resource_link 77350705-445d-7b52-6049-1c21539af11b "Lab 7" %}} | {{% resource_link 5589d8e9-37cc-db30-e5e3-0a28025e491c "Lab 9" %}}
 
-**Projects:** [Lecture 10]({{< baseurl >}}/pages/image-gallery/projects/lecture-10) | [Lab 10]({{< baseurl >}}/pages/image-gallery/projects/lab10) | Lecture 12 | [Lab 11]({{< baseurl >}}/pages/image-gallery/projects/lab11) | [Lab 12 - Color Organ]({{< baseurl >}}/pages/image-gallery/projects/lab12/color-organ) | [Lab 12 - Sunflower]({{< baseurl >}}/pages/image-gallery/projects/lab12/sunflower)
+**Projects:** {{% resource_link dfae6b21-ed59-6a72-f043-68e5453cfd36 "Lecture 10" %}} | {{% resource_link 9f359de3-2240-f274-db76-e85f310466d7 "Lab 10" %}} | Lecture 12 | {{% resource_link b1ec0daa-e898-cb17-a8f7-1a430a89b2de "Lab 11" %}} | {{% resource_link 68af1fc7-c8a5-dbe9-2615-213ab4d17f0c "Lab 12 - Color Organ" %}} | {{% resource_link e47ef7f9-cef5-4533-f3c8-342295b40235 "Lab 12 - Sunflower" %}}
 {{< image-gallery id="07fab0d6-7235-e608-ea95-3f976b3a92a8_nanogallery2" baseUrl="/courses/ec-s06-practical-electronics-fall-2004/" >}}
 {{< image-gallery-item href="735420c5b6c7e38e9c88b5d909a96439_1.jpg" data-ngdesc="Students debug the circuitry of the Color Organ." text="Students debug the circuitry of the Color Organ." >}}
 {{< image-gallery-item href="1bf78e2e2832fef725deff6f308df9d8_2.jpg" data-ngdesc="A student solders some components for his Sunflower project." text="A student solders some components for his Sunflower project." >}}

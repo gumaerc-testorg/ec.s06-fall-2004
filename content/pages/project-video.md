@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides videos of the projects. (Sunflower and Color Organ.)
 learning_resource_types: []
 ocw_type: CourseSection
 title: Project Video
