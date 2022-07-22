@@ -5,6 +5,7 @@ file: /courses/ec-s06-practical-electronics-fall-2004/fd83eb995628f9c9c79a595678
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 6: Op Amps'
 uid: fd83eb99-5628-f9c9-c79a-595678e3a105
 ---
 This file contains information regarding op-amps.
-

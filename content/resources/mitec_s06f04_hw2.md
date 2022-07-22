@@ -5,6 +5,7 @@ file: /courses/ec-s06-practical-electronics-fall-2004/59f1c4f1a8243d5d4bdef7f56b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Homework 2
 uid: 59f1c4f1-a824-3d5d-4bde-f7f56b0d9e63
 ---
 This file contains information regarding homework assignment 2.
-

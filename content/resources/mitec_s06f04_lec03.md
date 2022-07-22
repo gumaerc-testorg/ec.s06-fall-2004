@@ -5,6 +5,7 @@ file: /courses/ec-s06-practical-electronics-fall-2004/74b44927d62533d665228129b6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 3: Capacitors'
 uid: 74b44927-d625-33d6-6522-8129b60f5df2
 ---
 This file contains information regarding capacitors.
-

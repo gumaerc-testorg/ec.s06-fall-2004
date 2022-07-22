@@ -6,6 +6,7 @@ file: /courses/ec-s06-practical-electronics-fall-2004/03701ce703be37fd114431bd32
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 1: Course Introduction'
 uid: 03701ce7-03be-37fd-1144-31bd32daf11c
 ---
 This file contains information regarding course introduction, resistors and diodes.
-

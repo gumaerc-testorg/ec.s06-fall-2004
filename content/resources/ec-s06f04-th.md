@@ -10,10 +10,10 @@ image_metadata:
   credit: Image courtesy of Sergey Lebedev and stock.xchng.
   image-alt: A photo of a backlit printed circuit board.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ec-s06f04-th.jpg
 uid: 892ba4d6-8a66-0e5f-3674-0afb7a5ba22b
 ---
 Printed circuit board with transistors, resistors and operational amplifiers. Image courtesy of Sergey Lebedev and stock.xchng.
-
