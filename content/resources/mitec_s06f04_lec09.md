@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding final project concepts.
 file: /courses/ec-s06-practical-electronics-fall-2004/f634a6bcf3bba64d46765ba2322a70c8_MITEC_S06F04_lec09.pdf
+file_size: 140218
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
