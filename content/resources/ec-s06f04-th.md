@@ -2,7 +2,7 @@
 content_type: resource
 description: Printed circuit board with transistors, resistors and operational amplifiers.
   Image courtesy of Sergey Lebedev and stock.xchng.
-file: /courses/ec-s06-practical-electronics-fall-2004/892ba4d68a660e5f36740afb7a5ba22b_ec-s06f04-th.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-practical-electronics-fall-2004/892ba4d68a660e5f36740afb7a5ba22b_ec-s06f04-th.jpg
 file_size: 7189
 file_type: image/jpeg
 image_metadata:
