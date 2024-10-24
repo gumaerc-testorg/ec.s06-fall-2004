@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding course introduction, resistors
   and diodes.
-file: /courses/ec-s06-practical-electronics-fall-2004/03701ce703be37fd114431bd32daf11c_MITEC_S06F04_lec01.pdf
+file: /ol-ocw-studio-app/courses/ec-s06-practical-electronics-fall-2004/03701ce703be37fd114431bd32daf11c_MITEC_S06F04_lec01.pdf
 file_size: 259796
 file_type: application/pdf
 learning_resource_types:
