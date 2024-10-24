@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding rc circuits.
-file: /courses/ec-s06-practical-electronics-fall-2004/5d70e7c37b7dc19e1e947e7a7b1d4ac6_MITEC_S06F04_lec04.pdf
+file: /ol-ocw-studio-app/courses/ec-s06-practical-electronics-fall-2004/5d70e7c37b7dc19e1e947e7a7b1d4ac6_MITEC_S06F04_lec04.pdf
 file_size: 243779
 file_type: application/pdf
 learning_resource_types:
