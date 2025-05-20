@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding op-amps.
-file: /ol-ocw-studio-app/courses/ec-s06-practical-electronics-fall-2004/fd83eb995628f9c9c79a595678e3a105_MITEC_S06F04_lec06.pdf
+file: /courses/ec-s06-practical-electronics-fall-2004/fd83eb995628f9c9c79a595678e3a105_MITEC_S06F04_lec06.pdf
 file_size: 222679
 file_type: application/pdf
 learning_resource_types:
