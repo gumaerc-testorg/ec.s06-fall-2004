@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding homework assignment 4.
-file: /ol-ocw-studio-app/courses/ec-s06-practical-electronics-fall-2004/0010e64871e46dc049162e2c66dfaec2_MITEC_S06F04_hw4.pdf
+file: /courses/ec-s06-practical-electronics-fall-2004/0010e64871e46dc049162e2c66dfaec2_MITEC_S06F04_hw4.pdf
 file_size: 122492
 file_type: application/pdf
 learning_resource_types:
