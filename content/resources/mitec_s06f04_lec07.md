@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding flip-flops and 555 timer circuit.
-file: /courses/ec-s06-practical-electronics-fall-2004/fe4b82c0a96d9d862ef0457675bf28b8_MITEC_S06F04_lec07.pdf
+file: /ol-ocw-studio-app/courses/ec-s06-practical-electronics-fall-2004/fe4b82c0a96d9d862ef0457675bf28b8_MITEC_S06F04_lec07.pdf
 file_size: 243452
 file_type: application/pdf
 learning_resource_types:
