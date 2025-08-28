@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding the following topics: homework
   review, switches, bridge rectifiers, ac vs. dc, and function generators and oscilloscopes.'
-file: /courses/ec-s06-practical-electronics-fall-2004/86432d98ad5401f04bef3ad01f7594d6_MITEC_S06F04_lec02.pdf
+file: /ol-ocw-studio-app/courses/ec-s06-practical-electronics-fall-2004/86432d98ad5401f04bef3ad01f7594d6_MITEC_S06F04_lec02.pdf
 file_size: 214136
 file_type: application/pdf
 learning_resource_types:

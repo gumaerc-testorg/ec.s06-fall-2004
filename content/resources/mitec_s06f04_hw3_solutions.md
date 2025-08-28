@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding solutions to assigned homework
   problems 3.
-file: /courses/ec-s06-practical-electronics-fall-2004/16b9565c63b72d64fda5ced7625c7602_MITEC_S06F04_hw3_solutions.pdf
+file: /ol-ocw-studio-app/courses/ec-s06-practical-electronics-fall-2004/16b9565c63b72d64fda5ced7625c7602_MITEC_S06F04_hw3_solutions.pdf
 file_size: 430824
 file_type: application/pdf
 learning_resource_types:
