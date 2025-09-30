@@ -7,7 +7,8 @@ file_size: 7189
 file_type: image/jpeg
 image_metadata:
   caption: "Printed circuit board with transistors, resistors and operational amplifiers.\
-    \ (Image courtesy of Sergey Lebedev and\_[stock.xchng](http://www.freeimages.com/).)"
+    \ (Image courtesy of Sergey Lebedev and\_{{% resource_link \"689fc9ec-e62d-498b-973b-53fb365bd59d\"\
+    \ \"stock.xchng\" %}}.)"
   credit: Image courtesy of Sergey Lebedev and stock.xchng.
   image-alt: A photo of a backlit printed circuit board.
 learning_resource_types: []
